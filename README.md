@@ -20,4 +20,3 @@
 		</div>
 	</div>
 	
-# Thanks for using Columnize-v2.css! Please enjoy and hopefully a V2 will be out soon.
